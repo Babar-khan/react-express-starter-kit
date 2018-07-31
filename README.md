@@ -1,5 +1,4 @@
-# react-express-starter-kit
-React and Express Starter Pack
+# React Express Starter Pack
 
 Create full stack apps with React and Express.
 
