@@ -21,5 +21,5 @@ nodemon (server will be run on localhost:8080)
 npm run client
 # Change Directory to backend
 cd client
-# Type nodemon
+
 npm start (server will be run on localhost:3000)
