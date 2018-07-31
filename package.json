@@ -1,0 +1,15 @@
+{
+  "name": "reactexpress",
+  "version": "1.0.0",
+  "description": "React and Express Starter Pack",
+  "main": "",
+  "scripts": {
+    "client": "cd client && npm install",
+    "backend": "cd backend && npm install"
+  },
+  "author": "Babar Khan",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "1.14.6"
+  }
+}
